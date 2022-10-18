@@ -8,7 +8,7 @@ Me chamo Fernando Zafani, prazer!
 - 📚 Atualmente faço Sistemas de Informaçao na ESPM.
 - 📩 Fale comigo pelo email: [zafani07@gmail.com](mailto:zafani07@gmail.com)
 
-<div align="center">
+<div>
   <a href="https://github.com/FernandoZafani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoZafani&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoZafani&layout=compact&langs_count=7&theme=prussian"/>
