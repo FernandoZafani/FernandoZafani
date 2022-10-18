@@ -1,11 +1,12 @@
-<h2> Bem vindo ao meu perfil! 🤠 </h2>
+<h2> Bem vindo ao meu perfil! 🚀 </h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=FernandoZafani.FernandoZafani)](https://github.com/FernandoZafani) [![GitHub followers](https://img.shields.io/github/followers/FernandoZafani.svg?style=social&label=Follow)](https://github.com/FernandoZafani?tab=followers)
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/FernandoZafani?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=FernandoZafani.FernandoZafani)](https://github.com/FernandoZafani)    
 
 Me chamo Fernando Zafani, prazer! 
 
-- 👨‍💻 Pratico Java, Python, MySQL, entre outros!
-- 📚 Atualmente faço Sistemas de Informaçao na ESPM.
+- 👨‍💻 Pratico Java, Python, MySQL, TypeScript e mais!
+- 📚 Atualmente curso Sistemas de Informaçao na ESPM.
 - 📩 Fale comigo pelo email: [zafani07@gmail.com](mailto:zafani07@gmail.com)
 
 <div>
