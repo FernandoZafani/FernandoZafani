@@ -10,8 +10,8 @@ Me chamo Fernando Zafani, prazer!
 
 <div>
   <a href="https://github.com/FernandoZafani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoZafani&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoZafani&layout=compact&langs_count=7&theme=prussian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoZafani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoZafani&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ##
@@ -32,3 +32,4 @@ Me chamo Fernando Zafani, prazer!
 </br>
 
 <a href="https://www.linkedin.com/in/fernandozafani/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/zafani07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
