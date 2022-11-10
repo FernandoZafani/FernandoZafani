@@ -5,7 +5,7 @@
 
 Me chamo Fernando Zafani, prazer! 
 
-- 👨‍💻 Pratico Java, Python, MySQL, TypeScript e mais!
+- 👨‍💻 Pratico Java, Python, Flask, Selenium, MySQL, TypeScript e mais!
 - 📚 Atualmente curso Sistemas de Informaçao na ESPM.
 - 📩 Fale comigo pelo email: [zafani07@gmail.com](mailto:zafani07@gmail.com)
 
